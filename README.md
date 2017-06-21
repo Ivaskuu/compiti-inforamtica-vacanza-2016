@@ -16,7 +16,7 @@ essere una guida per i giovani che la città vogliono viverla.
 - [x] Attivita
 - [x] Contatto
 
-## Il tuo autore ![Progress](http://progressed.io/bar/0?title=progress)
+## Il tuo autore ![Progress](http://progressed.io/bar/12?title=progress)
 
 > Quest’anno in Letteratura hai avuto modo di studiare più autori. Prova a presentare tramite un sito
 l’autore che più ti è piaciuto.
