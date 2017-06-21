@@ -1,7 +1,8 @@
 Compiti inforamtica vacanza 2016
 ================================
 
-Devo fare 3 siti web in **HTML**
+Come compito d'informatica, quest'anno, devo sviluppare 3 siti web solamente in **HTML** (quindi niente CSS oppure Javascript).
+Ogni sito deve includere almeno **5 pagine**, e rispettare la formattazione delle cartelle come in classe, cioè una cartella per le immagini e un'altra per le altre pagine, oltre al index.html.
 
 ## La mia citta ![Progress](http://progressed.io/bar/67?title=progress)
 
