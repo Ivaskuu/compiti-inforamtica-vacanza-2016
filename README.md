@@ -10,13 +10,7 @@ Ogni sito deve includere almeno **5 pagine**, e rispettare la formattazione dell
 contenere tutte le informazioni della città sia dal punto di vista informativo che artistico. Inoltre deve
 essere una guida per i giovani che la città vogliono viverla.
 
-- [x] Pensare al formato del sito
-- [x] Index
-- [x] Divertirsi
-- [x] Attivita
-- [x] Contatto
-
-## Il tuo autore ![Progress](http://progressed.io/bar/12?title=progress)
+## Il tuo autore ![Progress](http://progressed.io/bar/100?title=finito)
 
 > Quest’anno in Letteratura hai avuto modo di studiare più autori. Prova a presentare tramite un sito
 l’autore che più ti è piaciuto.
