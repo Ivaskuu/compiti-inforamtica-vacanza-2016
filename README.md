@@ -15,7 +15,7 @@ essere una guida per i giovani che la città vogliono viverla.
 > Quest’anno in Letteratura hai avuto modo di studiare più autori. Prova a presentare tramite un sito
 l’autore che più ti è piaciuto.
 
-## Le mie vacanze ![Progress](http://progressed.io/bar/15?title=progress)
+## Le mie vacanze ![Progress](http://progressed.io/bar/100?title=finito)
 
 > Creare una galleria fotografica delle tue vacanze: immagina di dover creare un diario di bordo dove descrivi
 i posti e le giornate più belle delle tue vacanze (effettive o “sognate“).
